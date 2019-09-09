@@ -15,7 +15,7 @@ Implement a serverless-based social networking application (similar to Twitter) 
 - The application must save all the messages in an additional storage for future analytics' purpose
 - The application must be developed using the Serverless framework, Serverless Application Model(SAM) or equivalent
 - Use whatever language you want. Use something that you know well.
-- Provide a README with instructions on how to compile, deploy and run the application.
+- Provide a README with instructions on how to package, deploy and run the application.
 - You must release your work with an OSI-approved open source license of your choice.
 
 **IMPORTANT:**  Implement the requirements focusing on **writing the best code** you can produce.
